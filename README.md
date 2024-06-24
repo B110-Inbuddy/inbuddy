@@ -1,6 +1,6 @@
 ## [InBuddy ✈ 접속하기!](https://inbuddy.site:1110/login)
 
-![image](/assets/90561221/d88bd7d0-6835-44f5-bdbd-37c81298db80)
+![image](https://github.com/B110-Inbuddy/inbuddy/assets/90561221/d88bd7d0-6835-44f5-bdbd-37c81298db80)
 
 <br>
 
@@ -84,7 +84,7 @@ _위의 사진을 클릭하면 영상 링크로 이동합니다._
 
 <br>
 
-![image](/assets/90561221/4b2db3b3-4cef-44b9-9a81-d3aac30bda33)
+![image](https://github.com/B110-Inbuddy/inbuddy/assets/90561221/4b2db3b3-4cef-44b9-9a81-d3aac30bda33)
 
 1. 여정을 등록하고 관리
 
@@ -142,7 +142,7 @@ InBuddy의 경우 비행기 지연 예측할 때 항공편명, 항공사 등 범
 
 ---
 
-![image](/assets/90561221/15774c97-b14b-4fff-b070-204bb6cce298)
+![image](https://github.com/B110-Inbuddy/inbuddy/assets/90561221/15774c97-b14b-4fff-b070-204bb6cce298)
 
 <br>
 
@@ -212,7 +212,7 @@ Jenkins
 
 ##### 요구사항 정의, 기능 명세서
 
-![image](/assets/90561221/93e61bb0-9e7c-493a-924c-a2f57f9858f9)
+![image](https://github.com/B110-Inbuddy/inbuddy/assets/90561221/93e61bb0-9e7c-493a-924c-a2f57f9858f9)
 
 ###### 용어 정리
 
@@ -229,11 +229,11 @@ Jenkins
 
 ##### ERD
 
-![image](/assets/90561221/2c8ebb29-438b-4940-a7e2-bcf7fc0292d2)
+![image](https://github.com/B110-Inbuddy/inbuddy/assets/90561221/2c8ebb29-438b-4940-a7e2-bcf7fc0292d2)
 
 ##### 와이어 프레임
 
-![image](/assets/90561221/3c1f9a68-35cd-455e-9bbf-fdd50dce94fb)
+![image](https://github.com/B110-Inbuddy/inbuddy/assets/90561221/3c1f9a68-35cd-455e-9bbf-fdd50dce94fb)
 
 <br>
 
